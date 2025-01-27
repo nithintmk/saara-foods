@@ -6,28 +6,23 @@ export const menuMain = [
     },
     {
         name: "Menu",
-        url: "/menu",
+        url: "#",
         highlighted: false,
     },
     {
         name: "About Us",
-        url: "/about-us",
+        url: "#",
         highlighted: false,
     },
     {
         name: "Gallery",
-        url: "/gallery",
+        url: "#",
         highlighted: false,
     },
     {
         name: "Contact",
         url: "/contact",
         highlighted: false,
-    },
-    {
-        name: "Book",
-        url: "/book",
-        highlighted: true,
     },
 ];
 
@@ -44,7 +39,7 @@ export const footerSecondary = [
     {
         title: "support",
         items: [
-            { name: "pricing", url: "/pricing" },
+            { name: "pricing", url: "#" },
         ],
     },
 ];

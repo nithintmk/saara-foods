@@ -1,19 +1,19 @@
 // Global variables
 export const siteLang = "en-US";
-export const siteCurrency = "USD";
-export const siteDomain = "astropie.com";
-export const siteName = "AstroPie";
-export const siteSlogan = "The best pies in the galaxy!";
+export const siteCurrency = "INR";
+export const siteDomain = "saarafoods.com";
+export const siteName = "Mrkutta";
+export const siteSlogan = "The heart of your kitchen!";
 export const themeColor = "#FF0000";
 
 export const phone = {
-	href: "tel:+123456789",
-	label: "(123) 456-789",
+	href: "tel:+9188833 11159",
+	label: "(+91) 88833 11159",
 };
 
 export const email = {
-	href: "mailto:info@astropie.com",
-	label: "info@astropie.com",
+	href: "mailto:support@saarafoods.com",
+	label: "support@saarafoods.com",
 };
 
 export const address = {
